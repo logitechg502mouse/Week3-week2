@@ -20,6 +20,8 @@ public class GitOperations {
        System.out.println("1+2 = " + 3);
        System.out.println("hi");
        int c = 3.14;
+        
+       System.out.println("amogusamongus");
     }
     
 }
