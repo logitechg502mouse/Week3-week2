@@ -18,6 +18,7 @@ public class GitOperations {
        System.out.println("to learn gihub operations");
        System.out.println("amogus");
        System.out.println("1+2 = " + 3);
+       System.out.println("hi");
     }
     
 }
