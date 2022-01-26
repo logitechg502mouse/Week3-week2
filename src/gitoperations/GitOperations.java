@@ -16,6 +16,7 @@ public class GitOperations {
     public static void main(String[] args) {
         
        System.out.println("to learn gihub operations");
+       System.out.println("amogus");
     }
     
 }
